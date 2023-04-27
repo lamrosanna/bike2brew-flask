@@ -1,6 +1,6 @@
 # Bike to Brew
 
-:bike: :arrow_right: :beer:
+<p align ="center">:bike: :arrow_right: :beer:</p>
 
 Bike to Brew was created to unite hobbies of biking enthusiasts and beer drinking connoisseurs. Promoting an eco-friendly way of travel with the rewards of a nice cold beverage. This was initially created as a fun project in Anahiem, CA and has become so relevant since moving to Boulder, CO. 
 
